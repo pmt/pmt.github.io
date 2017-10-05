@@ -8,6 +8,6 @@ A week ago I had the opportunity to work with <a href="http://stacyasher.com">St
 
 So this past Sunday, I sat in the Arts Annex with 4 other women from the Durham area and I created 8 meat collages while chatting with them about our lives, pop culture, and meat.
 
-<img src="/files/meat_collage_full.jpg"/>
+<img style="max-width: 300px;" src="/files/meat_collage_full.jpg"/>
 
-<img src="/files/meat_collage_1.JPG"/>
+<img style="max-width: 300px;" src="/files/meat_collage_1.JPG"/>
