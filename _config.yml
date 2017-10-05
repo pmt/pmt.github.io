@@ -1,0 +1,27 @@
+title: patricia torvalds
+author: patricia torvalds
+email: patriciatorvalds@gmail.com
+description: "patricia torvalds website and creative work"
+baseurl: ""
+url: "https://patriciatorvalds.com"
+exclude: [vendor]
+
+github:
+  repository_url: https://github.com/pmt/pmt.github.io
+  branch: master
+
+permalink: '/creative/:title/'
+post_dirs: false
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM # GitHub Flavored Markdown
+  hard_wrap: false
+  highlighter: rouge
+
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - rouge

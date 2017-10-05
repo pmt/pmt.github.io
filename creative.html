@@ -1,0 +1,15 @@
+---
+title: Creative Work
+layout: post
+blog_index: true
+permalink: creative/
+---
+
+<ul>
+    {% for post in site.posts %}
+    <li>
+        <div class="post-date"><i>{{ post.date | date: '%B %-d, %Y' }}</i></div>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+</ul>
