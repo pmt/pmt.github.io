@@ -1,7 +1,7 @@
 ---
 title: "Meat collages with Stacy Asher"
 layout: post
-date: 2017-10-5
+date: 2017-10-6
 ---
 
 Last semester I was introduced to Carolee Schneemann’s film <a href="http://caroleeschneemann.com/meatjoy.html">Meat Joy (1964)</a> in my US Art History class. It was one of the few pieces in the class which produced a visceral reaction in me - my notes from the piece read, “Another psychological rendering of space -- what is public, what is private. Performance art. Challenge ideas of female sexuality. Body as art. Rubbed meats on bodies. Erotic, ritualized, repulsive, choreographed, spontaneous. Protest of instant gratification, capitalism and stuff.. Ugh”
