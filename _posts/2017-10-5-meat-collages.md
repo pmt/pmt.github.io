@@ -24,11 +24,11 @@ The works are displayed in pairs that make sense to me. All of them hang on Pant
 <i>SISTERS</i>, left. <i>ME AND MY BOYFRIEND</i>, right.
 <i>SISTERS</i> is a particularly special piece to me. It was fun to see how my sisters interacted with it: "Tag yourself I'm the runt," wrote Daniela, and Celeste responded, "I'm the juicy one... I'm the tastiest." These quotes make me laugh, but my sisters and I were also the only ones who identified in any way with the pieces.
 
-<img class="post-inline-image" src="/files/meat_collage_3.JPG"/>
+<img class="post-inline-image" src="/files/meat_collage_3.jpg"/>
 <i>UNTITLED</i>, left. <i>PEONY</i>, right.
 I love both of these pieces. The contrast of the reddish purple and the green in the first piece is really beautiful to me and I love the color matching in <i>PEONY</i>.
 
-<img class="post-inline-image" src="/files/meat_collage_3.JPG"/>
+<img class="post-inline-image" src="/files/meat_collage_3.jpg"/>
 <i>DEEP COBALT</i>, left. <i>TWINS/SUNSHINE</i>, right.
 <i>TWINS/SUNSHINE</i> I like because the two chickens in the picture are actually the exact same image, one is just larger than the other. Since Stacy Asher cut out all the meats from grocery fliers, I have no idea where each of the chickens came from.
 
