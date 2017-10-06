@@ -1,5 +1,5 @@
 body {
-    background-color: #ffc6d9;
+    background-color: #ffe6e8;
 }
 
 .content
@@ -17,13 +17,11 @@ body {
 }
 
 a:link {
-  color: #9c89b8;
+  color: #0b7a75;
 }
-
 a:visited {
-  color: #357266;
+  color: #545e75;
 }
-
 a:hover {
-  color: #b8bedd;
+  color: #63adf2;
 }
