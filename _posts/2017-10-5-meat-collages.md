@@ -28,7 +28,7 @@ The works are displayed in pairs that make sense to me. All of them hang on Pant
 <i>UNTITLED</i>, left. <i>PEONY</i>, right.
 I love both of these pieces. The contrast of the reddish purple and the green in the first piece is really beautiful to me and I love the color matching in <i>PEONY</i>.
 
-<img class="post-inline-image" src="/files/meat_collage_3.jpg"/>
+<img class="post-inline-image" src="/files/meat_collage_4.jpg"/>
 <i>DEEP COBALT</i>, left. <i>TWINS/SUNSHINE</i>, right.
 <i>TWINS/SUNSHINE</i> I like because the two chickens in the picture are actually the exact same image, one is just larger than the other. Since Stacy Asher cut out all the meats from grocery fliers, I have no idea where each of the chickens came from.
 
