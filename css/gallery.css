@@ -1,0 +1,46 @@
+/*
+ *  
+ * File name: gallery.css
+ * April 2020, Matteo Nicoli
+ */
+
+ .cpt-image 
+ {
+    position: relative;
+    width: auto
+  }
+  
+  .caption {
+    position: absolute; 
+    bottom: 0; 
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1; 
+    width: 100%;
+    height: 50px;
+    transition: .5s ease;
+    opacity:0;
+    color: white;
+    font-size: 20px;
+    text-align: left;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+  }
+  
+  /* When you mouse over the container, fade in the overlay title */
+  .cpt-image:hover .caption {
+    opacity: 1;
+  }
+
+.flip .back 
+{
+    background: #2184cd;
+    color: #fff;
+    text-align: center;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
