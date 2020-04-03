@@ -6,9 +6,9 @@ img.post-inline-image { margin: 10 auto; max-width: 100%; max-height: 100%; }
 
 img.post-two-images { max-width: 48%; max-height: 100%; }
 
-/* Nicoli Matteo, April 2020. */
 img.post-cpt-image { display: block; max-width: 100%; max-height: 100%; }
 
+/* Nicoli Matteo, April 2020. */
 img.post-two-imgs { width: 100%; height: 100%; }
 
 div.cpt-image { position: relative; width: auto; user-select: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; }
@@ -17,7 +17,7 @@ div.cpt-two-images { align-content: center; width: 48%; position: relative; disp
 
 div.cpt-imgs-block { overflow: hidden; display: flex; justify-content: space-between; }
 
-div.caption { position: absolute; bottom: 0; background: black; background: rgba(0, 0, 0, 0.5); color: #f1f1f1; width: 100%; height: 50px; transition: .5s ease; opacity: 0; color: white; font-size: 20px; text-align: left; user-select: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; }
+div.caption { position: absolute; bottom: 0; background: rgba(0, 0, 0, 0.5); width: 100%; height: 35px; /* The height of the caption */ transition: .5s ease; opacity: 0; color: white; font-size: 20px; text-align: left; user-select: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; }
 
 div.cpt-image:hover .caption { opacity: 1; }
 

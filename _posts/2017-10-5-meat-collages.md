@@ -14,22 +14,35 @@ Is the relationship between women and meat one of guilt? Meat is “bad for you�
 
 I’m no longer a vegetarian. My meat art collages hang on my dorm wall.
 
-<img class="post-inline-image" src="/files/meat/meat_collage_full.jpg"/>
+<div class="cpt-image">
+    <img class="post-cpt-image" src="/files/meat/meat_collage_full.jpg" />
+    <div class="caption">[CAPTION]</div>
+</div>
+
 The works are displayed in pairs that make sense to me. All of them hang on Pantone color postcards in a sort of surrealist landscape. They're made of clippings from grocery store advertisements glued onto Pantone color cards, which is to me another interesting connection between trendiness - a Pantone color card - and something not particularly trendy - cuts of meat.
 
-<img class="post-inline-image" src="/files/meat/meat_collage_1.JPG"/>
-<i>BEDROOM</i>, left. <i>UNTITLED</i>, right.
+<div class="cpt-image">
+    <img class="post-cpt-image" src="/files/meat/meat_collage_1.JPG" />
+    <div class="caption"><i>BEDROOM</i>, left. <i>UNTITLED</i>, right.</div>
+</div>
+<br>
+<div class="cpt-image">
+    <img class="post-cpt-image" src="/files/meat/meat_collage_2.JPG" />
+    <div class="caption"><i>SISTERS</i>, left. <i>ME AND MY BOYFRIEND</i>, right.</div>
+</div>
 
-<img class="post-inline-image" src="/files/meat/meat_collage_2.JPG"/>
-<i>SISTERS</i>, left. <i>ME AND MY BOYFRIEND</i>, right.
 <i>SISTERS</i> is a particularly special piece to me. It was fun to see how my sisters interacted with it: "Tag yourself I'm the runt," wrote Daniela, and Celeste responded, "I'm the juicy one... I'm the tastiest." These quotes make me laugh, but my sisters and I were also the only ones who identified in any way with the pieces.
 
-<img class="post-inline-image" src="/files/meat/meat_collage_3.jpg"/>
-<i>UNTITLED</i>, left. <i>PEONY</i>, right.
+<div class="cpt-image">
+    <img class="post-cpt-image" src="/files/meat/meat_collage_3.jpg" />
+    <div class="caption"><i>UNTITLED</i>, left. <i>PEONY</i>, right.</div>
+</div>
 I love both of these pieces. The contrast of the reddish purple and the green in the first piece is really beautiful to me and I love the color matching in <i>PEONY</i>.
 
-<img class="post-inline-image" src="/files/meat/meat_collage_4.jpg"/>
-<i>DEEP COBALT</i>, left. <i>TWINS/SUNSHINE</i>, right.
+<div class="cpt-image">
+    <img class="post-cpt-image" src="/files/meat/meat_collage_4.jpg" />
+    <div class="caption"><i>DEEP COBALT</i>, left. <i>TWINS/SUNSHINE</i>, right.</div>
+</div>
 <i>TWINS/SUNSHINE</i> I like because the two chickens in the picture are actually the exact same image, one is just larger than the other. Since Stacy Asher cut out all the meats from grocery fliers, I have no idea where each of the chickens came from.
 
 October 2017. Newspaper clipping on Pantone color postcard.
