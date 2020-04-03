@@ -5,9 +5,9 @@ blog_index: true
 permalink: creative/
 ---
 
-<ul>
+<ul class="list">
     {% for post in site.posts %}
-    <li>
+    <li class="listitem">
         <div class="post-date"><i>{{ post.date | date: '%B %-d, %Y' }}</i></div>
         <a href="{{ post.url }}">{{ post.title }}</a>
     </li>

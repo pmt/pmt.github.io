@@ -90,6 +90,18 @@ table {
  * Matteo Nicoli, April 2020 ~ Navigation Bar style 
  */
 
+ul.list 
+{
+  list-style-type: none; /* if you wanto to view the points set `disc` */
+  padding: 0;
+}
+
+li.listitem 
+{
+  padding: 5px 10px;
+  border-bottom: 1px solid #DDDDDD;
+}
+
 ul.nav
 {
     list-style-type: none;
