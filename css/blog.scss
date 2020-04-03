@@ -84,3 +84,41 @@ table {
       margin-top: 0; }
     table tr th :last-child, table tr td :last-child {
       margin-bottom: 0; }
+
+      
+/* 
+ * Matteo Nicoli, April 2020 ~ Navigation Bar style 
+ */
+
+ul.nav
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: transparent;
+}
+  
+li.navitem
+{
+    float: left;
+}
+  
+li a.menu
+{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    user-select: none; 
+    -webkit-user-select: none; 
+    -moz-user-select: none; 
+    -ms-user-select: none;
+}
+  
+li a.menu:hover
+{
+    border-radius: 10px;
+    background-color: pink;
+}
