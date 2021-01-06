@@ -4,7 +4,7 @@
     <meta name="author" content="{{ site.author_nickname }}" />
     <meta name="contact" content="{{ site.email }}" />
     <meta name="description" content="Patricia Torvalds' personal website." />
-    <meta name="keywords" content="patricia torvalds, pmt, duke, computer science, art, website" />
+    <meta name="keywords" content="patricia torvalds, pmt, duke, computer science, art, sewing, reading, website" />
     <meta name="generator" content="Jekyll" />
     <meta name="language" content="English" />
     <meta name="og:type" content="website" />
