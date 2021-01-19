@@ -2,6 +2,7 @@
 title: "Sewing Claude Montana Pattern 2203"
 layout: post
 date: 2021-01-05
+comments: true
 ---
 
 Last November (two months ago) I sewed up Claude Montana's Vogue 2203, which I found on eBay in my size for about $10. This pattern wasn't documented in the Sewing Patterns Wiki which is usually what I use to date my patterns, but it's copyrighted in the instructions as 1998. I added it to the Pattern wiki as I wrote this. Here it is:

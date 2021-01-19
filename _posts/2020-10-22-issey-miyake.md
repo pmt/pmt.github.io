@@ -2,6 +2,7 @@
 title: "Sewing Issey Miyake Pattern 2486"
 layout: post
 date: 2020-10-22
+comments: true
 ---
 
 In April I bought Vogue Pattern 2486 which is one of their "Designer Originals" from 1990 done by Issey Miyake. I got it for $40 which is the most I've spent on a pattern so far but actually a good price for Miyake patterns and in particular that one which I normally see for $80-$100, though I think they're fairly slow to move. Frankly I think there's basically no market for them besides in collectors of either Miyake or sewing patterns as most home sewists don't make avant garde clothing, which is too bad, since a re-release would be great. Miyake released patterns through Vogue from 1983 through the "Vogue Individualist" and "Vogue Designer Original" lines. As far as I can tell almost all of the 80s patterns were branded as "Individualist" and then in 1990 they switch over to "Designer Original", when they were released until 1993. I don't know anything about Vogue's branding strategy with their designer partners but it seems like many of the "Individualist" patterns were the more unusual or maybe younger contemporary designer releases like Adri, Claude Montana, Perry Ellis and of course Miyake, but maybe they just closed that line in the 90s and went with the more regional "American Designer," "Paris Original" and in Miyake's case "Designer Original."
