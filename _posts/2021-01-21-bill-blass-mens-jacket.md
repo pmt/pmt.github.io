@@ -15,7 +15,7 @@ Based on the recommendations from "Inside a Well-Made Jacket," I bought a wool f
 <p>
 One of the most interesting parts of this jacket was padstitching the horsehair undercollar. Horsehair canvas is used to stiffen collars in mens tailoring (and actually it's used in some skirt hems to maintain a more bell shape to skirts) and it has to be lightly stitched to the fashion fabric while it's being hand-shaped in order to create a "roll line" for the collar to fold down. Here are some progress photos of my pad stitching.
 <p>
-<img class="post-two-images" src="/files/patterns/collar_wip_1.jpg" /> <img class="post-two-images" src="/files/patterns/collar_wip_1.jpg" /> 
+<img class="post-two-images" src="/files/patterns/collar_wip_1.jpg" /> <img class="post-two-images" src="/files/patterns/collar_wip_2.jpg" /> 
 <p>
 It was really cool to see the horsehair change the collar shape. I initially started off using a woven interfacing then redid all the stitching with the horsehair since the woven interfacing didn't do any shaping at all. When I pressed the collar around my tailor's ham it really created a defined roll line and the purpose of using horsehair and spending several hours making invisible stitches in the canvas finally clicked for me. In the second photo you can see the undercollar (with the white horsehair), the collar band (black interfacing), and my yellow organza interlining in the body of the jacket.
 <p>
